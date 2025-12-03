@@ -4,7 +4,7 @@
 
 About Us
 
-- We plan to bring back the feel of Windows 7 with a modern system built from the ground up on raw C++.
+- We plan to bring back the feel of Windows 7 with a modern system built from the ground up on raw C.
 
 Launch Date?
 
